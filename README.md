@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image0]: ./images/corner_detection.png "Corners"
 [image1]: ./images/undistorted_chessboard.png "Undistorted"
 [image2]: ./images/undistorted_image.png "Straight Road"
-[image3]: ./images/threshoud_image.png "Threshould Image"
+[image3]: ./images/threshould_image.png "Threshould Image"
 [image4]: ./images/perspective_region.png "Perspective Region"
 [image5]: ./images/undistorted_binary.png "Undistored Lane-line"
 [image6]: ./images/window_filtering.png "Filtered Lane-line"
